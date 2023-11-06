@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 #include<iostream>
 
 using namespace std;
@@ -33,7 +33,7 @@ public:
 	void show() const
 	{
 		cout << title << " ( " << autor << " ) [ " << publishing 
-		<< " - " << year << "ã. ]" << " -- " << page_count << "ñòð." << endl;
+		<< " - " << year << "Ð³. ]" << " -- " << page_count << "ÑÑ‚Ñ€." << endl;
 	}
 	char* getAutor() const
 	{
